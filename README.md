@@ -12,5 +12,4 @@ data. Open the code inside Assessment_1 folder using visual studio code. </br>
 1.Folder Assesment_2and3  contains Assesment 2 and Assessment 3 from  https://github.com/jwo/react-assessment .This has React,Redux and 
 in from web service https://practiceapi.devmountain.com/api/ . Open the code inside Assessment_2and3  using visual studio code. </br>
 2.Run npm install to install all the  node-modules files </br>
-3. Run npm start to run the project. This will open To-Do app using React,Redux and 
-in from web service https://practiceapi.devmountain.com/api/.
+3. Run npm start to run the project. This will open To-Do app using React,Redux and data from web service location https://practiceapi.devmountain.com/api/.
